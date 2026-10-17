@@ -1,1 +1,10 @@
+CS223 - APPLICATION DEVELOPMENT AND EMERGING TECHNOLOGIES
+ACTIVITY 4 - GROUP ACTIVITY GIT
 
+Leader: Luares
+Members:
+Abulencia
+Alcantara
+Azores
+Capulong
+Mendez
